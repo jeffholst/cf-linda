@@ -1,4 +1,4 @@
-# cf-linda
+# CrossFit Linda
 
 ## Project setup
 ```
