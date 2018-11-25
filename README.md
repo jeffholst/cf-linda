@@ -10,6 +10,7 @@ Deadlift: 1 1/2 body weight
 Bench press: body weight
 Clean: 3/4 body weight
 ```
+[Demo](https://jeffholst.github.io/cf-linda/)
 
 ## Project setup
 ```
