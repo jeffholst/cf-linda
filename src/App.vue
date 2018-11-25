@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <md-toolbar class="md-primary">
-      <h3 class="md-title" style="flex: 1">CrossFit Linda</h3>
+      <h3 class="md-title" style="flex: 1">CF Linda</h3>
       <md-button @click="showAbout = true">About</md-button>
     </md-toolbar>
     <md-dialog :md-active.sync="showAbout">
@@ -10,7 +10,7 @@
         <a href="https://vuejs.org/" target="_blank"><img alt="Vue logo" src="./assets/logo.png" style="display: block; margin-left: auto; margin-right: auto;"></a>
         <p><a href="https://vuejs.org/" target="_blank">Vue.js</a> application using <a href="https://vuematerial.io/" target="_blank">Material Design</a>.
         <br><br>By Jeff Holst</p>
-        <p><a href= "https://www.crossfit.com/workout/2003/07/05#/comments" target="_blank">Reference: 030705</a></p>
+        <p><a href= "https://www.crossfit.com/workout/2003/07/05#/comments" target="_blank">CrossFit Linda Reference</a></p>
       </div>
       <md-dialog-actions>
         <md-button class="md-primary" @click="showAbout = false">Close</md-button>
